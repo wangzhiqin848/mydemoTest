@@ -1,0 +1,127 @@
+{
+  "ret": true,
+  "data": {
+    "searchList": [
+      {
+        "id": "0001",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1507/be/be258e8026958b13.img.jpg_110x110_12ad268a.jpg",
+        "title": "南京总统府+中山陵+夫子庙等一日游 纯玩精致小团 保证空座率",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售505",
+        "symbol": "￥",
+        "money": "198",
+        "rise": "起"
+      },
+      {
+        "id": "0002",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts7/2004/fa/28e458e896ea6702.jpg_110x110_afb972e2.jpg",
+        "title": "南京总统府+中山陵一日游【2-8人小团+错峰游+少排队】",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售347",
+        "symbol": "￥",
+        "money": "198",
+        "rise": "起"
+      },
+      {
+        "id": "0003",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts9/1908/13/0b92a90d8ee29a02.jpg_110x110_2271a0f1.jpg",
+        "title": "热门长江大桥+总统府+中山陵+玄武湖+夜游夫子庙等小团一日游",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售261",
+        "symbol": "￥",
+        "money": "199",
+        "rise": "起"
+      },
+      {
+        "id": "0004",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts5/1911/eb/ecf55634c885f502.png_110x110_7bab6dd6.png",
+        "title": "南京总统府+中山陵+牛首山+夫子庙一日游【小团出游+真纯玩】",
+        "desc": "南京出发",
+        "shop": "无自费无购物",
+        "sell": "已售74",
+        "symbol": "￥",
+        "money": "199",
+        "rise": "起"
+      },
+      {
+        "id": "0005",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts2/1912/de/a840d56576d8b402.jpg_110x110_639c4f99.jpg",
+        "title": "2-15人精品一日（南京总统府+中山陵+美龄宫+南京博物院）",
+        "desc": "南京出发",
+        "shop": "无自费无购物",
+        "sell": "已售48",
+        "symbol": "￥",
+        "money": "199",
+        "rise": "起"
+      },
+      {
+        "id": "0006",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts8/1601/5c/d26d423aa60e12f7.jpg_110x110_217bf287.jpg",
+        "title": "[主城接驾] 瘦西湖+大明寺+何园+东关街等一日游 淮扬美食",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售24",
+        "symbol": "￥",
+        "money": "228",
+        "rise": "起"
+      },
+      {
+        "id": "0007",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts7/1908/a8/3d6e65dceffb4802.jpg_110x110_8393b327.jpg",
+        "title": "【纯玩扬州】扬州瘦西湖+汉陵苑+何园或个园+东关街纯玩一日游",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售16",
+        "symbol": "￥",
+        "money": "190",
+        "rise": "起"
+      },
+      {
+        "id": "0008",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts9/2010/f5/a08afb1aaccc2802.jpg_110x110_c0206672.jpg",
+        "title": "南京博物院+中山陵+夫子庙纯玩一日游（可选总统府，纯玩线路）",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售11",
+        "symbol": "￥",
+        "money": "198",
+        "rise": "起"
+      },
+      {
+        "id": "0009",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts4/1808/c3/00b5036063738702.jpg_110x110_eb446c58.jpg",
+        "title": "南京扬州二日游 （宿锦江之星，精华景点门票全含，纯玩0购物）",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售14",
+        "symbol": "￥",
+        "money": "398",
+        "rise": "起"
+      },
+      {
+        "id": "00010",
+        "superscript": "可订明日",
+        "imgUrl": "https://imgs.qunarzz.com/p/tts2/1808/66/70d4acd96390da02.jpg_110x110_cb3c9cd3.jpg",
+        "title": "南京中山陵+夫子庙+总统府等一日游 品尝南京特色小吃",
+        "desc": "南京出发",
+        "shop": "无购物",
+        "sell": "已售1",
+        "symbol": "￥",
+        "money": "238",
+        "rise": "起"
+      }
+    ]
+  }
+}

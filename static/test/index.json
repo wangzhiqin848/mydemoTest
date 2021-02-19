@@ -1,0 +1,268 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://imgs.qunarzz.com/vs_ceph_vcimg/b8c4527c41649814cc4cf86880abba54.jpeg"
+      },{
+        "id": "0002",
+        "imgUrl": "http://imgs.qunarzz.com/vs_ceph_vcimg/1cfbdaa2682ada2f854ea6114b3677c8.jpeg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://imgs.qunarzz.com/vs_ceph_vcimg/569cae4ae98e9793f7341e85eed73c54.jpeg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://imgs.qunarzz.com/vs_ceph_vcimg/f03f5ac90ae59d0d9c6332a2bfd9782e.jpeg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/158387fe5376294f3776d01358d6b73b.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/69e8b07cb2d438c5530aebd4c8e3abd3.png",
+        "desc": "一日游"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/bd121884123cceb4da978047423421ce.png",
+        "desc": "总统府"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/31b9a56fab64662b16159f5f76d96821.png",
+        "desc": "牛首山"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/aba25fb84648c130561afa5398d3552a.png",
+        "desc": "红山森林"
+      }, {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/c1/6f15f887179fa002.png",
+        "desc": "大报恩寺"
+      }, {
+        "id": "0007",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/f04285731d7121da1b9028e2bf431695.png",
+        "desc": "钟山风景区"
+      }, {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/c1/6f15f887179fa002.png",
+        "desc": "夫子庙"
+      }, {
+        "id": "0009",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/d706a4d71c57c53ee8863b75a7af30cf.png",
+        "desc": "美龄宫"
+      }, {
+      "id": "00010",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png",
+      "desc": "明孝陵"
+    }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/f7/f7c3be996152011c.img.jpg_200x200_0b707f70.jpg",
+        "title": "南京总统府",
+        "desc": "见证了太平天国与两江总督衙门的兴衰"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/d4/d4f1a62140b9d93590.img.jpg_200x200_a1ff6094.jpg",
+        "title": "牛首山文化旅游区",
+        "desc": "帅的人都去过了\uD83D\uDE0E，你还等什么~"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/201312/03/38da27f8a2ad319ec8d65eac.jpg_200x200_72a1d26d.jpg",
+        "title": "红山森林动物园",
+        "desc": "这里特别受欢迎哟(๑‾ ꇴ ‾๑)"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/4e/4ec01cc307848a5890.water.jpg_200x200_e33cead8.jpg",
+        "title": "钟山风景区",
+        "desc": "伟大的民主革命先行者孙中山先生的陵寝"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1701/b8/b806750f5c23b867a3.img.png_200x200_6dd44adf.png",
+        "title": "夫子庙",
+        "desc": "一条长江路，半部民国史"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/f3/d51669250308cc.jpg_r_640x214_7a127cd0.jpg",
+        "title": "秦淮金粉里的南京",
+        "desc": "欣赏秦淮风光上独具特色的人文景观，夫子庙里深刻体会古代科举制度"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/e1/cdbf56d837da59.jpg_r_640x214_105fc3f2.jpg",
+        "title": "民国情怀国共风华",
+        "desc": "南京，一座历史文化名城，这片土地上曾经经历过太多太多值得我们去追忆的往事"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/f1/ae9d4299b8aaea.jpg_r_640x214_0c555905.jpg",
+        "title": "南京必打卡",
+        "desc": "看尽王侯将相荣辱成败，六朝金粉潮起潮落"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1507/ae/bf7adc6c9b80fe.jpg_r_640x214_8e68e99f.jpg",
+        "title": "细数南京温泉",
+        "desc": "融人文景观与自然风光为一体的温泉圣地，温泉疗养、度假休闲的好去处"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/ed/bf2bc72af591d5.jpg_r_640x214_f9f1bfcc.jpg",
+        "title": "温泉必游",
+        "desc": "为你量身打造绿色健康生活方式，远离都市的喧嚣，工作的烦恼，还你一个悠闲静雅之旅"
+      }],
+    "scrollList": [
+      {
+        "id": "0001",
+        "imgurl": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/f7/f7c3be996152011c.img.jpg_200x200_0b707f70.jpg",
+        "title": "南京总统府",
+        "price": "￥30.5",
+        "area": "玄武区",
+        "desc": "太平天国与两江总督衙门的兴衰"
+      },
+      {
+        "id": "0002",
+        "imgurl": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/d4/d4f1a62140b9d93590.img.jpg_200x200_a1ff6094.jpg",
+        "title": "牛首山文化旅游区",
+        "price": "￥38.5",
+        "area": "江宁区",
+        "desc": "好评如潮，小伙伴热推景点~"
+      },
+      {
+        "id": "0003",
+        "imgurl": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1502/fa/fa9b584a8b8e47e9.water.jpg_200x200_1f2148f4.jpg",
+        "title": "明孝陵",
+        "price": "￥47",
+        "area": "钟山风景区",
+        "desc": "朱元璋和马皇后合葬于此"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/201312/03/38da27f8a2ad319ec8d65eac.jpg_200x200_72a1d26d.jpg",
+        "title": "红山森林动物园",
+        "price": "￥59",
+        "area": "玄武区",
+        "desc": "这里特别受欢迎呦(*╹▽╹*)"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1511/ea/eaf1bdc38aed9e6690.img.jpg_200x200_3032bf56.jpg",
+        "title": "银杏湖乐园",
+        "price": "￥199",
+        "area": "江宁区",
+        "desc": "快带上你的那个她来打卡叭！"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/bb/538133c76765880a3d3c802e45015c57.water.jpg_200x200_169b048c.jpg",
+        "title": "汤山紫清湖旅游区",
+        "price": "￥108",
+        "area": "江宁区",
+        "desc": "生态旅游，温泉度假，收获健康好心情"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1b/1bddb5654a716ed190.water.jpg_200x200_da8c0535.jpg",
+        "title": "南京阅江楼",
+        "price": "￥30",
+        "area": "下关区",
+        "desc": "狮子山巍凭栏阅江，品六百年传奇之楼"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/a3/a37ced8252b273c9.img.jpg_200x200_cfb06983.jpg",
+        "title": "夫子庙秦淮河游船",
+        "price": "￥59",
+        "area": "秦淮区",
+        "desc": "游秦淮河，吃美食，看夜景"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201305/21/d8776b6f1b7ecc46c8d65eac.jpg_200x200_a237da35.jpg",
+        "title": "中山陵",
+        "price": "￥30",
+        "area": "钟山风景区",
+        "desc": "革命先行者孙中山先生的陵寝"
+      },
+      {
+        "id": "0010",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/c2/c2ddc7eb7f47ff1c90.water.jpg_200x200_95388193.jpg",
+        "title": "玄武湖公园",
+        "price": "￥80",
+        "area": "玄武区",
+        "desc": "皇家园林湖泊，江南皇家园林"
+      },
+      {
+        "id": "0011",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/c0/c01ae3666c4d4043.img.jpg_200x200_511a3866.jpg",
+        "title": "南京中国科举博物馆",
+        "price": "￥49",
+        "area": "夫子庙",
+        "desc": "中国科举制度场所，科举文物史料机构"
+      }
+    ],
+    "likeList":[
+      {
+        "id":"0001",
+        "img":"https://imgs.qunarzz.com/sight/p0/1508/f7/f7c3be996152011c.img.jpg_200x200_0b707f70.jpg",
+        "title":"南京总统府",
+        "ping":"4657条评论",
+        "money":"147",
+        "address":"玄武区",
+        "mai":"随买随用",
+        "zhu":"见证了太平天国与两总督衙门的兴衰"
+      },
+      {
+        "id":"0002",
+        "img":"http://img1.qunarzz.com/sight/p0/1910/3f/3f9480835c9a41da3.img.jpg_200x200_113f20df.jpg",
+        "title":"南京金鹰动物世界",
+        "ping":"1563条评论",
+        "money":"128",
+        "address":"建邺区",
+        "mai":" ",
+        "zhu":"朱元璋和马皇后合葬于此"
+      },
+      {
+        "id":"0003",
+        "img":"http://img1.qunarzz.com/sight/p0/201305/21/f97aa203374f29e1c8d65eac.jpg_200x200_b5805583.jpg",
+        "title":"瞻园",
+        "ping":"1317条评论",
+        "money":"48.8",
+        "address":"夫子庙",
+        "mai":"随买随用",
+        "zhu":"帅的人都过去了，你还等什么~"
+      },
+      {
+        "id":"0004",
+        "img":"http://img1.qunarzz.com/sight/p0/1601/d4/d4f1a62140b9d93590.img.jpg_200x200_a1ff6094.jpg",
+        "title":"大报恩寺遗址公园",
+        "ping":"99.8条评论",
+        "money":"83.4",
+        "address":"秦淮区",
+        "mai":"随买随用",
+        "zhu":" "
+      },
+      {
+        "id":"0005",
+        "img":"http://img1.qunarzz.com/sight/p0/1909/90/90a9270d2b17ebf1a3.img.jpg_200x200_acea5d85.jpg",
+        "title":"南京金牛湖野生动物园",
+        "ping":"1106条评论",
+        "money":"138",
+        "address":"金牛湖",
+        "mai":"随买随用",
+        "zhu":" "
+      },
+      {
+        "id":"0006",
+        "img":"http://img1.qunarzz.com/sight/p0/1805/9b/9b3cbcf2624bf8cea3.img.jpg_200x200_075bc9ef.jpg",
+        "title":"弘扬未来世界主题乐园",
+        "ping":"9705条评论",
+        "money":"30.5",
+        "address":"浦口区",
+        "mai":"随买随用",
+        "zhu":""
+      }
+
+    ]
+
+  }
+}

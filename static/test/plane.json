@@ -1,0 +1,159 @@
+{
+  "ret": true,
+  "data": {
+    "hotCities": [{
+      "id": 1,
+      "spell": "beijing",
+      "name": "北京"
+    }, {
+      "id": 3,
+      "spell": "shanghai",
+      "name": "上海"
+    }, {
+      "id": 47,
+      "spell": "xian",
+      "name": "西安"
+    }, {
+      "id": 239,
+      "spell": "sanya",
+      "name": "三亚"
+    }, {
+      "id": 188,
+      "spell": "lijiang",
+      "name": "丽江"
+    }, {
+      "id": 125,
+      "spell": "guilin",
+      "name": "桂林"
+    }],
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/2faf8ad2937f57efe9abd0f73b4531eb.jpg_r_640x360x70_f43ec528.jpg",
+        "desc": "来天下第一湾过一个暖冬吧！"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/e0fd04119884146c47776c79948ab7c4.jpg_r_640x358x70_c44ebe5a.jpg",
+        "desc": "2000公里丝绸之路走起来"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/f17590610d60dfb9fc454537689fb8ac.jpg_r_640x427x70_37b5cf2a.jpg",
+        "desc": "坐在飞机上拍到一个神仙地方！"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/bc8624acb8bc32db10031896b09c07ef.jpg_r_640x360x70_ed5a71f2.jpg",
+        "desc": "在中国消失的麋鹿奇迹回归！"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/15562cec3bd53237ee3621b352da242b.jpg_r_640x359x70_aafcf02b.jpg",
+        "desc": "“感谢台风” 让我食在三亚"
+      }
+    ],
+    "contentList": [
+      {
+        "id": "0001",
+        "name": "最笨旅行家石头",
+        "icon": "https://qcommons.qunar.com/headshot/headshotsById/238950329.png",
+        "desc": "秦淮，跨越600年的桨声灯影 | 南京文旅攻略",
+        "images": [
+          {
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/79470b71dd64a9d9517108a8595993cb.jpg_640x480x70_4c272f12.jpg"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/b76745faa4b7fd8538e74bf75cfe10a5.jpg_640x480x70_168f9a67.jpg"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/1154b5cf5e6909dbb38bc9723391b661.jpg_640x480x70_66bcfe92.jpg"
+          }
+        ]
+      },
+      {
+        "id": "0002",
+        "name": "mxok3555",
+        "icon": "https://qcommons.qunar.com/headshot/headshotsById/391299294.png",
+        "desc": "广西北海自由行，找个春暖花开温暖自己一下",
+        "images": [
+          {
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/81220ad46eaf2271038c24dbc4bb02ec.jpg_640x480x70_7ad0fcd8.jpg"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/121c067124c3e923ca3bb40d901eaba3.gif_640x480x70_1dd4b702.gif"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/c7835d2865927c47000e2851dfbde289.gif_640x480x70_851909fe.gif"
+          }
+        ]
+      },
+      {
+        "id": "0003",
+        "name": "雨神Hades",
+        "icon": "https://qcommons.qunar.com/headshot/headshotsById/124368164.png",
+        "desc": "周末自驾好去处 探秘广东大峡谷",
+        "images": [
+          {
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/ba6b5ac7200bb26a1f77013d03d80dae.jpg_640x480x70_db965f55.jpg"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/09ae7216c6ea118a27c07d3c71095795.jpg_640x480x70_059e5cd3.jpg"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/1c0cfcb4dda632b3da25a5ce7245ce94.jpg_640x480x70_bc1d45ad.jpg"
+          }
+        ]
+      },
+      {
+        "id": "0004",
+        "name": "旅行啦文龙",
+        "icon": "https://qcommons.qunar.com/headshot/headshotsById/147460809.png",
+        "desc": "乘着房车游嘉兴，在江南美景美食中，遇见历史邂逅情怀",
+        "images": [
+          {
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/2c478cd9ad4407b1cbf18a25fe674b6e.jpg_640x480x70_1b367261.jpg"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/9342020b7464fc8b6b0f3a0a7178821c.jpg_640x480x70_53c1cb07.jpg"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/b3b14722566eee5e09bc90910f841ba4.jpg_640x480x70_5f227bb2.jpg"
+          }
+        ]
+      },
+      {
+        "id": "0005",
+        "name": "贺贺-贺小唏",
+        "icon": "https://qcommons.qunar.com/headshot/headshotsById/145827134.png",
+        "desc": "三亚全攻略：到三亚看过了海，才算是过完了完整的一年",
+        "images": [
+          {
+            "id": "0001",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/277a5877f9e0f807603ede9e23ee8e9c.jpg_640x480x70_b6518bd7.jpg"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/3f8faa8f869216ef5a964669ca4f96bd.jpg_640x480x70_5465fe8d.jpg"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/2924f9cb2e6b40166ca81d741b920786.jpg_640x480x70_08b8702d.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

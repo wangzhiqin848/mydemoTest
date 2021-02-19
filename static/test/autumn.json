@@ -1,0 +1,64 @@
+{
+  "ret": true,
+  "data": {
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1605/34/34cd9045f23f273590.water.jpg_640x276_1552ad3b.jpg",
+        "title": "扬州瘦西湖温泉",
+        "desc": "40个温泉池为您量身打造绿色健康生活方式",
+        "money": "5.8"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/f4/f455d92ba582f608.water.jpg_640x276_d1694c3b.jpg",
+        "title": "南京汤山颐尚温泉",
+        "desc": "温泉疗养、休闲度假的好去处",
+        "money": "1"
+      },
+      {
+
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/b3/1415e635014967c75a3d955ae256a628.water.jpg_640x276_c3663fec.jpg",
+        "title": "南京汤山一号温泉",
+        "desc": "享受特色温泉“冷雾温泉”，感受冰凉体验",
+        "money": "30"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/b8/b83bf050ff0283ad.water.jpg_640x276_59be2b37.jpg",
+        "title": "南京汤山圣泉温泉",
+        "desc": "汤池圣泉，帝王享受",
+        "money": "23.7"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1611/a2/a246388ce5e8330ea3.img.jpg_640x276_10e9bb71.jpg",
+        "title": "汤山紫清湖旅游区",
+        "desc": "生态旅游，温泉度假，收获健康好心情",
+        "money": "30"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/18/a8808a8137ac01d17dc1e7e56edf547f.jpg_640x276_72d1bac8.jpg",
+        "title": "天乐湖温泉",
+        "desc": "东南亚风情温泉主题精品酒店",
+        "money": "35"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1706/88/8872a8475372d575a3.img.jpg_640x276_913e631c.jpg",
+        "title": "海云星自在岛温泉",
+        "desc": "大型天然温泉休闲娱乐会馆",
+        "money": "3.98"
+      }
+     
+    ],
+    "headList": [
+      {
+        "id": "001",
+        "name": "温泉必游"
+      }
+    ]
+  }
+}

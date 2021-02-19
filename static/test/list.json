@@ -1,0 +1,133 @@
+{
+  "ret": true,
+  "data": {
+    "city": "南京",
+    "changeList": [
+      {
+        "id": "0001",
+        "text": "打卡必游"
+      },
+      {
+        "id": "0002",
+        "text": "亲子出游"
+      },
+      {
+        "id": "0003",
+        "text": "金陵野趣"
+      }
+    ],
+    "contentList": [
+      {
+        "id": "0001",
+        "title": "",
+        "desc": "钟山风雨，虎踞龙盘，访千年古都，忆民国风流。",
+        "textList": [
+          {
+            "id": "0001",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1508/f7/f7c3be996152011c.img.jpg_280x200_337af64c.jpg",
+            "title": "南京总统府",
+            "number": "109989",
+            "star": "5.0",
+            "price": "30.5",
+            "reason": "民国曾经的权利中心所在地，于古色古香的中式氛围中体验近代中国荣辱兴衰。",
+            "duration": "1~2"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1502/fa/fa9b584a8b8e47e9.water.jpg_280x200_aabdb336.jpg",
+            "title": "明孝陵",
+            "number": "15693",
+            "star": "4.9",
+            "price": "30",
+            "reason": "中国明皇陵之首，山环水绕，欣赏浑然天成的人文与自然景观。",
+            "duration": "1~2"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1701/b8/b806750f5c23b867a3.img.png_280x200_2825ca87.png",
+            "title": "夫子庙",
+            "number": "13355",
+            "star": "4.9",
+            "price": "0.7",
+            "reason": "千年夫子庙，十里秦淮河，寻着文人墨客的痕迹感受悠悠历史。",
+            "duration": "2~3"
+          }
+        ]
+      },
+      {
+        "id": "0002",
+        "title": "一 亲子出游 一",
+        "desc": "假期到，把南京适合带宝宝玩的地方一网打尽！",
+        "textList": [
+          {
+            "id": "0001",
+            "imgUrl": "https://img1.qunarzz.com/sight/201312/03/38da27f8a2ad319ec8d65eac.jpg_280x200_573e880f.jpg",
+            "title": "红山森林动物园",
+            "number": "12167",
+            "star": "5.0",
+            "price": "39",
+            "reason": "园内山峦叠嶂，绿化覆盖率达85%，展示着世界各地珍稀动物216种，2600余只。",
+            "duration": "3~4"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1904/f5/f5d40a15a52ca090a3.img.jpg_280x200_05a5a146.jpg",
+            "title": "南京万达乐园",
+            "number": "841",
+            "star": "5.0",
+            "price": "3",
+            "reason": "为游客提供无与伦比的娱乐体验。",
+            "duration": "6"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/2002/7a/7a724637046202c6a3.water.jpg_280x200_73023998.jpg",
+            "title": "南京海底世界",
+            "number": "10680",
+            "star": "4.9",
+            "price": "175",
+            "reason": "由中国与新加坡合作建设，是融科普教育、观赏娱乐为一体的大型海洋生物展示工程。",
+            "duration": "2~3"
+          }
+        ]
+      },
+      {
+        "id": "0003",
+        "title": "一 金陵野趣 一",
+        "desc": "金陵佳丽地，十朝帝王都，城外生机盎然，寻觅金陵野趣。",
+        "textList": [
+          {
+            "id": "0001",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1601/d4/d4f1a62140b9d93590.img.jpg_280x200_7410958e.jpg",
+            "title": "牛首山文化旅游区",
+            "number": "13719",
+            "star": "5.0",
+            "price": "48.8",
+            "reason": "金陵四大名胜之一，一座牛首山，半部南京史。牛首山风光秀美，素有“春牛首”之美誉。",
+            "duration": "4~5"
+          },
+          {
+            "id": "0002",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1502/e1/e1834f8d1ed57517.water.jpg_280x200_243e03d8.jpg",
+            "title": "南京梅花节",
+            "number": "1723",
+            "star": "4.8",
+            "price": "46",
+            "reason": "花如雪，梅似海",
+            "duration": "3~6"
+          },
+          {
+            "id": "0003",
+            "imgUrl": "https://img1.qunarzz.com/sight/p0/1603/4e/4ec01cc307848a5890.water.jpg_280x200_6c0e4576.jpg",
+            "title": "钟山风景区",
+            "number": "11060",
+            "star": "4.9",
+            "price": "46",
+            "reason": "自钟山远眺，玄武湖五洲烟柳，十里春风，燕雀湖波光墙影，紫霞湖林海明珠，尽收眼底。",
+            "duration": "2~3"
+          }
+        ]
+      }
+    ]
+  }
+}
